@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token2.webp",
+    "token_id": "2",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Pink Thunder",
+    "description": "Stand out with the vibrant Pink Thunder skin. This bold and colorful design gives your rover a unique flair, perfect for players looking to make an impression.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Ne"
+      }
+    ]
+  }

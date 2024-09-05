@@ -1,0 +1,34 @@
+{
+    "id": 0,
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token0.webp",
+    "token_id": "0",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "komodo",
+    "description": "Komodo is a powerful, high-precision weapon designed for close-quarters combat. Its enhanced accuracy and devastating firepower make it a must-have for any serious fighter.Dragon Mode: When activated, the weapon enters Dragon Mode for 12 seconds. During this time, it fires rounds with 20% increased strength and has an infinite magazine.",
+    "external_url": null,
+    			
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "DMG (hp)",
+        "value": "94"
+      },
+      {
+        "trait_type": "Range (m)",
+        "value": "50m"
+      },
+      {
+        "trait_type": "Fire Rate (rpm)",
+        "value": "300"
+      },
+      {
+        "trait_type": "Magazine Cap (n)",
+        "value": "35"
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+    "id": 4,
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token4.webp",
+    "token_id": "4",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Red Thunder",
+    "description": "Turn up the heat with the Red Thunder skin. This fiery design is perfect for players who want their rover to reflect their fierce determination and passion",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Fe"
+      }
+    ]
+  }

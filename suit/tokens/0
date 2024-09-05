@@ -1,0 +1,37 @@
+{
+    "id": 0,
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token1.webp",
+    "token_id": "0",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Glitch",
+    "description": "The Glitch suit is engineered for ultimate protection and mobility. Its sleek design allows for smooth movement while offering top-tier defense against enemy attacks.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Max HP (hp)",
+        "value": "12000"
+      },
+      {
+        "trait_type": "Max Shield (hp)",
+        "value": "7000"
+      },
+      {
+        "trait_type": "HP Regen (hp/s)",
+        "value": "40"
+      },
+      {
+        "trait_type": "Shield regen (hp)",
+        "value": "0"
+      },
+      {
+        "trait_type": "Damage absorb",
+        "value": "7%"
+      }
+    ]
+  }

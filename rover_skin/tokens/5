@@ -1,0 +1,21 @@
+{
+    "id": 5,
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token1.webp",
+    "token_id": "5",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Bronze Thunder",
+    "description": "Equip your rover with the rugged and dependable Bronze Thunder skin. Its solid, earthy tones give your rover a grounded, yet powerful look, perfect for tough missions.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Cu"
+      }
+    ]
+  }

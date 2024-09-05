@@ -5,21 +5,17 @@
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
+    "name": "Blue Thunder",
+    "description": "Channel the cool power of the Blue Thunder skin. Its sleek and icy aesthetic makes your rover look as sharp as its performance.",
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "Rarity",
+        "value": "Common"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
+        "trait_type": "Element",
+        "value": "Co"
       }
     ]
   }

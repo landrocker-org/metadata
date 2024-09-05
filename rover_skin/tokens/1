@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token1.webp",
+    "token_id": "1",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Gold Thunder",
+    "description": "Bring a touch of luxury to your rover with the Gold Thunder skin. Its gleaming golden finish sets you apart as you navigate through planets in style.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Au"
+      }
+    ]
+  }

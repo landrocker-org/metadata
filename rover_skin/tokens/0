@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token0.webp",
+    "token_id": "0",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "X Thunder",
+    "description": "Outfit your rover with the electrifying X Thunder skin. Its bold design makes a statement, giving your rover a striking appearance while you dominate the terrain.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Ti"
+      }
+    ]
+  }

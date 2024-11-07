@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token1.webp",
+  "token_id": "1",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Nebula Pulse",
+  "description": "A fiery red finish that stands out in the heat of battle.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Muzzle Flash",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Pistol"
+    }
+  ]
+}

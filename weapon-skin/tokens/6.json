@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token6.webp",
+  "token_id": "6",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Void Piercer",
+  "description": "A vibrant, street-style design with splashes of color.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Muzzle Flash",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Pistol"
+    }
+  ]
+}

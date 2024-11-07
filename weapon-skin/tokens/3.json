@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token3.webp",
+  "token_id": "3",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Starburst Revolver",
+  "description": "A cool, icy blue designed for stealth in snowy environments.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Muzzle Flash",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Pistol"
+    }
+  ]
+}

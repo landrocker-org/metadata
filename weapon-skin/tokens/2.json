@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token2.webp",
+  "token_id": "2",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Cosmic Dart",
+  "description": "A rugged, sand-colored skin ideal for desert terrain.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Muzzle Flash",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Pistol"
+    }
+  ]
+}

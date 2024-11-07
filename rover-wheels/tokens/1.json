@@ -1,0 +1,30 @@
+
+{
+    "id": 1,
+    "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token1.webp",
+    "token_id": "1",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Galactic Pulse",
+    "description": "A smooth, spherical design incorporating layered metallic bands with bright cyan accents. The open core and solid design highlight an innovative, industrial charm.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Material",
+        "value": "Iron"
+      },
+      {
+        "trait_type": "Visual Effect",
+        "value": "none"
+      },
+      {
+        "trait_type": "Size",
+        "value": "16"
+      }
+    ]
+}

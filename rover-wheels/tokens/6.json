@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token6.webp",
+  "token_id": "6",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Celestial Charger",
+  "description": "Designed with stealth technology, these wheels allow players to move quietly, catching enemies off guard.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Plastic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Flame effect"
+    },
+    {
+      "trait_type": "Size",
+      "value": "16"
+    }
+  ]
+}

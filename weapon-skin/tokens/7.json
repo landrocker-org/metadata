@@ -1,0 +1,29 @@
+{
+  "id": 7,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token7.webp",
+  "token_id": "7",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Galaxy Pistol",
+  "description": "Sleek and professional, with a modern, urban vibe.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Muzzle Flash",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Pistol"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 15,
+  "image": "https://immutable.landrocker.io/metadata/rover-flag/tokens/token1.webp",
+  "token_id": "15",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Galactic Emblem",
+  "description": "With a ghostly skull emblem, this flag represents the stealth and mystery of a warrior who strikes without warning and disappears into the shadows.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Motion",
+      "value": "None"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    }
+  ]
+}

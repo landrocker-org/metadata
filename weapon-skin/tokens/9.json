@@ -1,28 +1,28 @@
 {
   "id": 9,
-  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token9.webp",
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token0.webp",
   "token_id": "9",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Ion Blaster",
-  "description": "Dark green with subtle leaf patterns, blending into wooded areas.",
+  "name": "Solar Sting",
+  "description": "A muted, tactical camouflage perfect for covert missions.",
   "external_url": null,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Epic"
-    },
-    {
-      "trait_type": "Muzzle Flash",
-      "value": "Pink flash"
+      "value": "Common"
     },
     {
       "trait_type": "Visual Effect",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Special Effect",
       "value": "None"
     },
     {
-      "trait_type": "Weapon",
+      "trait_type": "Weapon Type",
       "value": "Pistol"
     }
   ]

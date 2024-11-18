@@ -1,0 +1,29 @@
+{
+  "id": 31,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token3.webp",
+  "token_id": "31",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Meteor Grasp",
+  "description": "An intricate, circular structure showcasing segmented rings and bright teal highlights. The open core and durable composition emphasize a sleek, innovative aesthetic.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Plastic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Purple light"
+    },
+    {
+      "trait_type": "Size",
+      "value": "18"
+    }
+  ]
+}

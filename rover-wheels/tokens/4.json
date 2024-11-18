@@ -1,29 +1,29 @@
 {
   "id": 4,
-  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token4.webp",
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token0.webp",
   "token_id": "4",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Vortex Raider",
-  "description": "A powerful, circular structure with glowing orange accents. The exposed core and heavy-duty build underscore a strong, mechanical aesthetic.",
+  "name": "Nebula Strider",
+  "description": "A sleek, circular design featuring layered metallic rings with glowing orange accents and intricate detailing. The exposed core and robust structure highlight a modern, industrial aesthetic.",
   "external_url": null,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Material",
-      "value": "Composite"
+      "value": "Titanium"
     },
     {
       "trait_type": "Visual Effect",
-      "value": "Orange light"
+      "value": "None"
     },
     {
       "trait_type": "Size",
-      "value": "16"
+      "value": "14"
     }
   ]
 }

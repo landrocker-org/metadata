@@ -1,0 +1,29 @@
+{
+  "id": 39,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token4.webp",
+  "token_id": "39",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Vortex Raider",
+  "description": "A powerful, circular structure with glowing orange accents. The exposed core and heavy-duty build underscore a strong, mechanical aesthetic.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Composite"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Orange light"
+    },
+    {
+      "trait_type": "Size",
+      "value": "16"
+    }
+  ]
+}

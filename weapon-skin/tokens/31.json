@@ -1,0 +1,29 @@
+{
+  "id": 31,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token4.webp",
+  "token_id": "31",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Lunar Spark",
+  "description": "Deep matte black, perfect for night operations.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Pistol"
+    }
+  ]
+}

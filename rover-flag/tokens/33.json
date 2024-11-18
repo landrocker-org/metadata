@@ -1,0 +1,29 @@
+{
+  "id": 33,
+  "image": "https://immutable.landrocker.io/metadata/rover-flag/tokens/token2.webp",
+  "token_id": "33",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Dragon Flag",
+  "description": "Featuring a fierce dragon, this flag embodies power, resilience, and the fiery spirit of those who never back down in the face of danger.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Motion",
+      "value": "None"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    }
+  ]
+}

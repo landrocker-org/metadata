@@ -1,30 +1,29 @@
-
 {
-    "id": 2,
-    "image": "https://immutable.landrocker.io/metadata/rover-backfire/tokens/token2.webp",
-    "token_id": "2",
-    "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Galaxy Blaze",
-    "description": "Emitting a vibrant green flame, this backfire effect is a powerful symbol of energy and unstoppable momentum.",
-    "external_url": null,
-    "attributes": [
-      {
-        "trait_type": "Rarity",
-        "value": "Common"
-      },
-      {
-        "trait_type": "Material",
-        "value": "Gas"
-      },
-      {
-        "trait_type": "Visual Effect",
-        "value": "Shader"
-      },
-      {
-        "trait_type": "Color",
-        "value": "Lime"
-      }
-    ]
+  "id": 2,
+  "image": "https://immutable.landrocker.io/metadata/rover-backfire/tokens/token0.webp",
+  "token_id": "2",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Solar Inferno",
+  "description": "A cool blue flame that leaves a striking, icy trail as the rover speeds forward, adding a fierce edge to its presence.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Gas"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Shader"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ]
 }

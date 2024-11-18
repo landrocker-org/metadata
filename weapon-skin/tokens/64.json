@@ -1,0 +1,29 @@
+{
+  "id": 64,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token12.webp",
+  "token_id": "64",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Celestial Tempest",
+  "description": "A bold, deep red that adds intensity to every shot.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Rifle"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 56,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token10.webp",
+  "token_id": "56",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Star Fury",
+  "description": "A sandy, dust-blown finish perfect for blending into arid landscapes.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Rifle"
+    }
+  ]
+}

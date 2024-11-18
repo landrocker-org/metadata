@@ -1,0 +1,29 @@
+{
+  "id": 125,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token21.webp",
+  "token_id": "125",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Starlance",
+  "description": "Dark with fiery orange accents, like smoldering lava beneath rock.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Yellow flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Sniper"
+    }
+  ]
+}

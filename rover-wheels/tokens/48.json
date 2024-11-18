@@ -1,0 +1,29 @@
+{
+  "id": 48,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token7.webp",
+  "token_id": "48",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Nova Striker",
+  "description": "Optimized for speed, these wheels give a rapid boost, perfect for fast-paced chases and quick escapes.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Plastic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Lighted effect"
+    },
+    {
+      "trait_type": "Size",
+      "value": "16"
+    }
+  ]
+}

@@ -1,29 +1,29 @@
 {
   "id": 6,
-  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token6.webp",
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token0.webp",
   "token_id": "6",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Celestial Charger",
-  "description": "Designed with stealth technology, these wheels allow players to move quietly, catching enemies off guard.",
+  "name": "Nebula Strider",
+  "description": "A sleek, circular design featuring layered metallic rings with glowing orange accents and intricate detailing. The exposed core and robust structure highlight a modern, industrial aesthetic.",
   "external_url": null,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Material",
-      "value": "Plastic"
+      "value": "Titanium"
     },
     {
       "trait_type": "Visual Effect",
-      "value": "Flame effect"
+      "value": "None"
     },
     {
       "trait_type": "Size",
-      "value": "16"
+      "value": "14"
     }
   ]
 }

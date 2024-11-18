@@ -1,0 +1,29 @@
+{
+  "id": 121,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token20.webp",
+  "token_id": "121",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Orbital Eye",
+  "description": "A sleek design that enhances the mysterious and deadly presence of the sniper",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Yellow flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Sniper"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13,
+  "image": "https://immutable.landrocker.io/metadata/rover-backfire/tokens/token1.webp",
+  "token_id": "13",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Comet Trail",
+  "description": "This intense purple backfire creates a bold, otherworldly aura, showcasing the rover's unique style on the battlefield.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Gas"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Shader"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    }
+  ]
+}

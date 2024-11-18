@@ -1,30 +1,29 @@
-
 {
-    "id": 9,
-    "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token9.webp",
-    "token_id": "9",
-    "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Astro Surge",
-    "description": "With extra grip and stability, these wheels excel in rocky and mountainous landscapes, keeping your rover steady on steep inclines",
-    "external_url": null,
-    "attributes": [
-      {
-        "trait_type": "Rarity",
-        "value": "Legendary"
-      },
-      {
-        "trait_type": "Material",
-        "value": "Plastic"
-      },
-      {
-        "trait_type": "Visual Effect",
-        "value": "Colorful flame"
-      },
-      {
-        "trait_type": "Size",
-        "value": "16"
-      }
-    ]
+  "id": 9,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token0.webp",
+  "token_id": "9",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Nebula Strider",
+  "description": "A sleek, circular design featuring layered metallic rings with glowing orange accents and intricate detailing. The exposed core and robust structure highlight a modern, industrial aesthetic.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Titanium"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Size",
+      "value": "14"
+    }
+  ]
 }

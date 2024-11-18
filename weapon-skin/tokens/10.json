@@ -1,29 +1,29 @@
 {
   "id": 10,
-  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token10.webp",
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token1.webp",
   "token_id": "10",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Star Fury",
-  "description": "A sandy, dust-blown finish perfect for blending into arid landscapes.",
+  "name": "Nebula Pulse",
+  "description": "A fiery red finish that stands out in the heat of battle.",
   "external_url": null,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Rare"
-    },
-    {
-      "trait_type": "Muzzle Flash",
-      "value": "Blue flash"
+      "value": "Common"
     },
     {
       "trait_type": "Visual Effect",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Special Effect",
       "value": "None"
     },
     {
-      "trait_type": "Weapon",
-      "value": "Rifle"
+      "trait_type": "Weapon Type",
+      "value": "Pistol"
     }
   ]
 }

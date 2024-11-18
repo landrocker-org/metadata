@@ -1,0 +1,29 @@
+{
+  "id": 204,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token38.webp",
+  "token_id": "204",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Quasar Spade",
+  "description": "Made for those who thrive in chaos, embracing the intensity of combat.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Green flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Green laser"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Digger"
+    }
+  ]
+}

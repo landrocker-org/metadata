@@ -1,0 +1,29 @@
+{
+  "id": 185,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token34.webp",
+  "token_id": "185",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Lunar Spike",
+  "description": "Worn and rugged, showing the marks of countless victorious fights.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Green flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Green laser"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Digger"
+    }
+  ]
+}

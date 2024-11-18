@@ -1,0 +1,29 @@
+{
+  "id": 55,
+  "image": "https://immutable.landrocker.io/metadata/rover-flag/tokens/token3.webp",
+  "token_id": "55",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Killer Flag",
+  "description": "Bold and intimidating, this flag displays the killer's insignia, a warning to any who cross its path that mercy is not an option",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Motion",
+      "value": "None"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "None"
+    }
+  ]
+}

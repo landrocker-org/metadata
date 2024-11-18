@@ -1,0 +1,29 @@
+{
+  "id": 49,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token8.webp",
+  "token_id": "49",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Quasar Spinner",
+  "description": "Built for muddy and swampy environments, these wheels provide maximum traction and stability in challenging wet terrain.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Plastic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Pink flame"
+    },
+    {
+      "trait_type": "Size",
+      "value": "16"
+    }
+  ]
+}

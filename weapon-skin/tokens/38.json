@@ -1,0 +1,29 @@
+{
+  "id": 38,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token5.webp",
+  "token_id": "38",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Astro Impact",
+  "description": "Radiates with a faint orange glow, mimicking embers in darkness",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Pistol"
+    }
+  ]
+}

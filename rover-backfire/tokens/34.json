@@ -1,0 +1,29 @@
+{
+  "id": 34,
+  "image": "https://immutable.landrocker.io/metadata/rover-backfire/tokens/token3.webp",
+  "token_id": "34",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Cosmic Ember",
+  "description": "A vivid pink burst that adds a touch of bold flair, lighting up the rover's path with bright intensity.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Gas"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Shader"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    }
+  ]
+}

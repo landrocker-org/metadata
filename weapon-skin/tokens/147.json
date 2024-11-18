@@ -1,0 +1,29 @@
+{
+  "id": 147,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token27.webp",
+  "token_id": "147",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Lunar Mark",
+  "description": "Durable and reliable, reflecting the resilience needed in long missions.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Yellow flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Fire bullet shell"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Sniper"
+    }
+  ]
+}

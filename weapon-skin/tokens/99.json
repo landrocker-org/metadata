@@ -1,0 +1,29 @@
+{
+  "id": 99,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token18.webp",
+  "token_id": "99",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Stellar Charge",
+  "description": "Dark with glowing red cracks, resembling molten lava.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Rifle"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 153,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token29.webp",
+  "token_id": "153",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Meteor Shard",
+  "description": "A design that honors the legacy of elite snipers, revered and feared.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Yellow flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Magic bullet shell"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Sniper"
+    }
+  ]
+}

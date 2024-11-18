@@ -1,29 +1,29 @@
 {
   "id": 7,
-  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token7.webp",
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token0.webp",
   "token_id": "7",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Nova Striker",
-  "description": "Optimized for speed, these wheels give a rapid boost, perfect for fast-paced chases and quick escapes.",
+  "name": "Nebula Strider",
+  "description": "A sleek, circular design featuring layered metallic rings with glowing orange accents and intricate detailing. The exposed core and robust structure highlight a modern, industrial aesthetic.",
   "external_url": null,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Common"
     },
     {
       "trait_type": "Material",
-      "value": "Plastic"
+      "value": "Titanium"
     },
     {
       "trait_type": "Visual Effect",
-      "value": "Lighted effect"
+      "value": "None"
     },
     {
       "trait_type": "Size",
-      "value": "16"
+      "value": "14"
     }
   ]
 }

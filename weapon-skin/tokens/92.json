@@ -1,0 +1,29 @@
+{
+  "id": 92,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token17.webp",
+  "token_id": "92",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Cosmic Thunder",
+  "description": "Icy blue with white accents, designed for arctic environments.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Red flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Golden bullet shell"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Rifle"
+    }
+  ]
+}

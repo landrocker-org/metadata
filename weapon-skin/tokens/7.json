@@ -1,28 +1,28 @@
 {
   "id": 7,
-  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token7.webp",
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token0.webp",
   "token_id": "7",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Galaxy Pistol",
-  "description": "Sleek and professional, with a modern, urban vibe.",
+  "name": "Solar Sting",
+  "description": "A muted, tactical camouflage perfect for covert missions.",
   "external_url": null,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Epic"
-    },
-    {
-      "trait_type": "Muzzle Flash",
-      "value": "Pink flash"
+      "value": "Common"
     },
     {
       "trait_type": "Visual Effect",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Special Effect",
       "value": "None"
     },
     {
-      "trait_type": "Weapon",
+      "trait_type": "Weapon Type",
       "value": "Pistol"
     }
   ]

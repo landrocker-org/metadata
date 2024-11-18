@@ -1,29 +1,29 @@
 {
   "id": 3,
-  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token3.webp",
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token0.webp",
   "token_id": "3",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Meteor Grasp",
-  "description": "An intricate, circular structure showcasing segmented rings and bright teal highlights. The open core and durable composition emphasize a sleek, innovative aesthetic.",
+  "name": "Nebula Strider",
+  "description": "A sleek, circular design featuring layered metallic rings with glowing orange accents and intricate detailing. The exposed core and robust structure highlight a modern, industrial aesthetic.",
   "external_url": null,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Material",
-      "value": "Plastic"
+      "value": "Titanium"
     },
     {
       "trait_type": "Visual Effect",
-      "value": "Purple light"
+      "value": "None"
     },
     {
       "trait_type": "Size",
-      "value": "18"
+      "value": "14"
     }
   ]
 }

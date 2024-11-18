@@ -1,0 +1,29 @@
+{
+  "id": 143,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token26.webp",
+  "token_id": "143",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Eclipse Sight",
+  "description": "Built for silent operatives who thrive in the cover of darkness.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Yellow flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Fire bullet shell"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Sniper"
+    }
+  ]
+}

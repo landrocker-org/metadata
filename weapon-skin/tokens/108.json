@@ -1,0 +1,29 @@
+{
+  "id": 108,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token19.webp",
+  "token_id": "108",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Comet Reaper",
+  "description": "A golden-tan finish, blending perfectly with grassy plains.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Rifle"
+    }
+  ]
+}

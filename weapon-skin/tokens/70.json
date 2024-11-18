@@ -1,0 +1,29 @@
+{
+  "id": 70,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token13.webp",
+  "token_id": "70",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Solar Edge",
+  "description": "Green and brown camo with hints of foliage for forested combat.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Rifle"
+    }
+  ]
+}

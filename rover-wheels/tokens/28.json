@@ -1,0 +1,29 @@
+{
+  "id": 28,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token2.webp",
+  "token_id": "28",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Starbound Cyclone",
+  "description": "An intricate, circular structure showcasing segmented rings and bright teal highlights. The open core and durable composition emphasize a sleek, innovative aesthetic.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Plastic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue light"
+    },
+    {
+      "trait_type": "Size",
+      "value": "18"
+    }
+  ]
+}

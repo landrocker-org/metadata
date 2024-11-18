@@ -1,0 +1,29 @@
+{
+  "id": 193,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token35.webp",
+  "token_id": "193",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Nova Breaker",
+  "description": "A bold, commanding design that stands out on the battlefield.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Green flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Green laser"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Digger"
+    }
+  ]
+}

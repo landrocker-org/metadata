@@ -1,0 +1,29 @@
+{
+  "id": 78,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token14.webp",
+  "token_id": "78",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Void Barrage",
+  "description": "Metallic silver with a rugged, industrial feel.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Rifle"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 132,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token22.webp",
+  "token_id": "132",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Cosmic Sentry",
+  "description": "Designed for those who strike without warning, perfect for stealth missions.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Yellow flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Sniper"
+    }
+  ]
+}

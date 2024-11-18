@@ -1,0 +1,29 @@
+{
+  "id": 40,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token5.webp",
+  "token_id": "40",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Cosmic Drift",
+  "description": "Built for any landscape, from scorching deserts to rocky mountains, these wheels ensure smooth navigation across all challenging terrains.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Plastic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue flame"
+    },
+    {
+      "trait_type": "Size",
+      "value": "16"
+    }
+  ]
+}

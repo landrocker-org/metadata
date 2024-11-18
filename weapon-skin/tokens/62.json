@@ -1,0 +1,29 @@
+{
+  "id": 62,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token11.webp",
+  "token_id": "62",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Galactic Blaze",
+  "description": "Dark, smoke-grey camouflage for low-visibility missions.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Blue flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Rifle"
+    }
+  ]
+}

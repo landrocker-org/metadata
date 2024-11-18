@@ -1,0 +1,29 @@
+{
+  "id": 52,
+  "image": "https://immutable.landrocker.io/metadata/rover-wheels/tokens/token9.webp",
+  "token_id": "52",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Astro Surge",
+  "description": "With extra grip and stability, these wheels excel in rocky and mountainous landscapes, keeping your rover steady on steep inclines",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Plastic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Colorful flame"
+    },
+    {
+      "trait_type": "Size",
+      "value": "16"
+    }
+  ]
+}

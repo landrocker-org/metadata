@@ -1,0 +1,29 @@
+{
+  "id": 49,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token8.webp",
+  "token_id": "49",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Stellar Needle",
+  "description": "A polished, reflective surface for a sleek, high-tech look.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Pistol"
+    }
+  ]
+}

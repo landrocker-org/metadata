@@ -1,28 +1,28 @@
 {
   "id": 3,
-  "image": "https://immutable.landrocker.io/metadata/weapon-skin/tokens/token3.webp",
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token0.webp",
   "token_id": "3",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Starburst Revolver",
-  "description": "A cool, icy blue designed for stealth in snowy environments.",
+  "name": "Solar Sting",
+  "description": "A muted, tactical camouflage perfect for covert missions.",
   "external_url": null,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Rare"
-    },
-    {
-      "trait_type": "Muzzle Flash",
-      "value": "Pink flash"
+      "value": "Common"
     },
     {
       "trait_type": "Visual Effect",
+      "value": "Pink flash"
+    },
+    {
+      "trait_type": "Special Effect",
       "value": "None"
     },
     {
-      "trait_type": "Weapon",
+      "trait_type": "Weapon Type",
       "value": "Pistol"
     }
   ]

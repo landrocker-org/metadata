@@ -1,0 +1,29 @@
+{
+  "id": 11,
+  "image": "https://immutable.landrocker.io/metadata/rover-skin/tokens/token1.webp",
+  "token_id": "11",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Astro Armor",
+  "description": "Customize your rover with a range of unique skins, each designed to reflect your style and presence on the battlefield. Whether rugged, sleek, or battle-worn, these skins transform your vehicle into a true symbol of strength, resilience, and individuality as you navigate the challenging terrains of Battle of Mars.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Colorful"
+    },
+    {
+      "trait_type": "Customizable",
+      "value": "None"
+    },
+    {
+      "trait_type": "Paint Type",
+      "value": "None"
+    }
+  ]
+}

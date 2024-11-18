@@ -1,0 +1,29 @@
+{
+  "id": 134,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token23.webp",
+  "token_id": "134",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Nebula Focus",
+  "description": "A modern, streamlined finish, optimized for precision and control.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Yellow flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Fire bullet shell"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Sniper"
+    }
+  ]
+}

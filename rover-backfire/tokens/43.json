@@ -1,0 +1,29 @@
+{
+  "id": 43,
+  "image": "https://immutable.landrocker.io/metadata/rover-backfire/tokens/token4.webp",
+  "token_id": "43",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Nebula Scorch",
+  "description": "A blazing yellow trail that highlights the rover's speed and power, leaving a lasting impression in every move.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Gas"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Shader"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    }
+  ]
+}

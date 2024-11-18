@@ -1,0 +1,29 @@
+{
+  "id": 211,
+  "image": "https://immutable.landrocker.io/metadata/weapon-skins/tokens/token39.webp",
+  "token_id": "211",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Celestial Splitter",
+  "description": "A refined look, perfect for the guardians and protectors of the field.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Visual Effect",
+      "value": "Green flash"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Green laser"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Digger"
+    }
+  ]
+}
